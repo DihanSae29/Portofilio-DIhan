@@ -3,7 +3,7 @@
 Welcome to my personal web portfolio repository! This project contains the source code for my portfolio website, built entirely from scratch. It serves as a digital showcase of my journey in Software Engineering, featuring my tech arsenal, UI/UX explorations, and featured development projects.
 
 ## 🚀 Live Transmission (Demo)
-🌐 **[View My Live Portfolio Here](https://DihanSae29.github.io/nama-repo-lu-disini)**
+🌐 **[View My Live Portfolio Here](https://DihanSae29.github.io/Portofolio-Dihan)**
 
 *(Note: Replace the link above with your actual GitHub Pages URL once deployed)*
 
